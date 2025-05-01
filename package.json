@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeyzaZngn/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Beyza Zengin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeyzaZngn/PCAT/issues"
+  },
+  "homepage": "https://github.com/BeyzaZngn/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
