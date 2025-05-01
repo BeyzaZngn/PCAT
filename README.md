@@ -1,2 +1,2 @@
 # PCAT
-PCAT Poject - Patika Node.js Course
+PCAT Project - Patika Node.js Course
